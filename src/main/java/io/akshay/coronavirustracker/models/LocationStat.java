@@ -14,6 +14,7 @@ public class LocationStat {
         this.diffFromPreviousDay = diffFromPreviousDay;
     }
 
+
     public String getState() {
         return state;
     }
